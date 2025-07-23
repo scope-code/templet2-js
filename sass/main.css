@@ -1,0 +1,83 @@
+.home {
+  background: url(../../img/Image.png);
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+.home .card {
+  border: none;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  width: 25rem;
+}
+.home .con-nav {
+  margin-top: -25px;
+}
+.home .con-nav .con-main {
+  border: 4px solid #064749;
+  border-radius: 40px;
+  padding: 2px;
+  background: #ffffff;
+}
+.home .con-nav .con-main ul {
+  margin-bottom: 0;
+}
+.home .con-nav .con-main ul li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 5px;
+}
+.home .con-nav .con-main ul li p {
+  margin: 0 5px;
+}
+.home .con-nav .con-main ul li img {
+  margin: 0 5px;
+}
+.home .con-nav .con-main ul button {
+  border: none;
+  border-radius: 30px;
+  background: #064749;
+  color: #ffffff;
+  padding: 10px 30px;
+}
+.home .con-nav .con-main ul .bor {
+  width: 1px;
+  height: 40px;
+  background-color: #064749;
+  margin: 0 30px;
+}
+
+.about .bak {
+  background: #F2F0F2;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+
+.serv .card {
+  background-color: #E2F1E8;
+  border: none;
+  border-radius: 35px;
+  height: 15rem;
+}
+.serv .card .text-title {
+  font-size: 2rem;
+}
+.serv .card .text-pr {
+  font-size: 1.1rem;
+  height: 80px;
+}
+
+.city .card {
+  border: none;
+  padding: 13px;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  height: 1000rem;
+}/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,14 @@
+@use './padges/header';
+@use './padges/body';
+@use './padges/footer';
+@use './componant/ani';
+@use './componant/midua';
+@use './componant/var' as *;
+
+ul{
+    list-style: none;
+}
+
+body{
+    height: 1000rem;
+}
